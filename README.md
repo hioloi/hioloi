@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hio Loi, PhD
 
+I am a Sr. Revenue Science Analyst at FedEx.
 <!--
 **hioloi/hioloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

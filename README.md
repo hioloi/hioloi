@@ -1,6 +1,6 @@
 ## Hio Loi, PhD
 
-I am a Sr. Revenue Science Analyst at FedEx.
+I am a Sr. Revenue Science Analyst at FedEx. Before joining FedEx, I taught Economics for 6 years in The University of Tennessee at Martin and Southern Illinois University at Edwardsville.
 <!--
 **hioloi/hioloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

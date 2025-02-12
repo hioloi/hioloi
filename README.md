@@ -1,6 +1,15 @@
 ## Hio Loi, PhD
 
-I am a Sr. Revenue Science Analyst at FedEx. Before joining FedEx, I taught Economics for 6 years in The University of Tennessee at Martin and Southern Illinois University at Edwardsville.
+I am currently working as a Sr. Revenue Science Analyst at FedEx. Before joining FedEx, I taught Economics for 6 years in The University of Tennessee at Martin and Southern Illinois University at Edwardsville.
+
+### Published Research:
+- [Stock Prices and Inflation: Evidence from the Four Asian Tigers](https://www.aabri.com/manuscripts/213439.pdf), _Journal of Finance and Accountancy_, (2022).
+- [Testing for Freak Jumps in Exchange Rates](https://www.economics-finance.org/aefj/issues/AEFJ_volume10.pdf), _Academy of Economics and Finance Journal_, (2019), with Scott Gilbert.
+- [Digital Currency Risk](https://ccsenet.org/journal/index.php/ijef/article/view/72380), _International Journal of Economics and Finance_, (2018), with Scott Gilbert.
+- [The Liquidity of Bitcoin](https://ccsenet.org/journal/index.php/ijef/article/view/71641), _International Journal of Economics and Finance_, (2018).
+- Determinants of the Bitcoin Price Movements: An ARDL Bounds Test Approach, _Journal of Business and Economic Perspectives_, (2017).
+- [Inflation and Growth: An Estimate of the Threshold Level of Inflation in the U.S.](https://www.researchgate.net/profile/Ahmed-Abou-Zaid/publication/311413446_Inflation_and_Growth_An_Estimate_of_the_Threshold_Level_of_Inflation_in_the_US/links/5844f4c808ae2d217566d6e3/Inflation-and-Growth-An-Estimate-of-the-Threshold-Level-of-Inflation-in-the-US.pdf), _ISOR Journal of Economics and Finance_, (2016), with Ahmed S. Abou-Zaid.
+
 <!--
 **hioloi/hioloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

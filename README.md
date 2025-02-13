@@ -1,6 +1,6 @@
 ## Hio Loi, PhD
 
-I am currently working as a Sr. Revenue Science Analyst at FedEx. Before joining FedEx, I taught Economics courses at The University of Tennessee at Martin, Southern Illinois University at Edwardsville, and Southern Illinois University at Carbondale.
+I currently work as a Senior Revenue Science Analyst at FedEx. Prior to joining FedEx, I taught Economics courses at the University of Tennessee at Martin, Southern Illinois University Edwardsville, and Southern Illinois University Carbondale.
 
 ### Published Research:
 - [Stock Prices and Inflation: Evidence from the Four Asian Tigers](https://www.aabri.com/manuscripts/213439.pdf), _Journal of Finance and Accountancy_, (2022).
